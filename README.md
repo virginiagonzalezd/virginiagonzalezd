@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🚀 Currently working on my Master's Thesis – pushing the boundaries of software engineering in healthcare.
-- 💡 Always learning – diving deep into software engineering as part of my Master's journey.
-- 🤝 Open to collaboration – especially on projects that innovate in healthcare tech!
+- 🚀 **Currently working on my Master's Thesis** – pushing the boundaries of software engineering in healthcare.
+- 💡 **Always learning** – diving deep into software engineering as part of my Master's journey.
+- 🤝 **Open to collaboration** – especially on projects that innovate in healthcare tech!
